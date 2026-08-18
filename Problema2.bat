@@ -1,4 +1,3 @@
-```bat
 @echo off
 
 :MENU
@@ -22,4 +21,3 @@ if %op%==6 start https://www.efpem.usac.edu.gt/
 if %op%==7 exit
 
 goto MENU
-```
