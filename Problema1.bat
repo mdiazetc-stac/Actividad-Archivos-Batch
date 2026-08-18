@@ -1,4 +1,3 @@
-```bat
 @echo off
 
 :MENU
@@ -45,4 +44,3 @@ echo Un archivo Batch contiene comandos que se ejecutan
 echo automaticamente y utiliza la extension .BAT.
 pause
 goto MENU
-```
